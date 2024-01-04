@@ -1,4 +1,4 @@
-# Aplicación de Ensolvers
+# Aplicación de Notes
 
 ## Descripción
 Este proyecto consiste en una aplicación dividida en un frontend y un backend, desarrollada con tecnologías como React, Vite, tailwind, Express y MySQL.

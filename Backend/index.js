@@ -10,7 +10,6 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-
 // Rutas de la API
 app.use('/api/todos', todoRoutes(db));
 
