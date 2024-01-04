@@ -1,7 +1,7 @@
 # Aplicación de Ensolvers
 
 ## Descripción
-Este proyecto consiste en una aplicación dividida en un frontend y un backend, desarrollada con tecnologías como React, Vite, tailwind,Express y MySQL.
+Este proyecto consiste en una aplicación dividida en un frontend y un backend, desarrollada con tecnologías como React, Vite, tailwind, Express y MySQL.
 
 ## Requisitos del Sistema
 - Node.js (v14 o superior)
